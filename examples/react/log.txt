@@ -1,0 +1,84 @@
+[Mon, 20 Feb 2023 14:19:42 GMT] [info] [<0.000.0>] pouchdb-server has started on http://0.0.0.0:10102/
+[Mon, 20 Feb 2023 14:19:42 GMT] [info] [<0.000.0>] database is in-memory; no changes will be saved.
+[Mon, 20 Feb 2023 14:19:42 GMT] [info] [<0.000.0>] database files will be saved to /tmp/pouchdb-server/
+[Mon, 20 Feb 2023 14:19:42 GMT] [info] [<0.000.0>] navigate to http://0.0.0.0:10102/_utils for the Fauxton UI.
+[Mon, 20 Feb 2023 14:19:59 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /flages/ 201
+[Mon, 20 Feb 2023 14:20:00 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /flages/ 412
+[Mon, 20 Feb 2023 14:20:04 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /flages/_changes?style=all_docs&feed=longpoll&since=now&include_docs=true&heartbeat=60000&limit=20&seq_interval=20 200
+[Mon, 20 Feb 2023 14:51:02 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /flages/_changes?style=all_docs&feed=longpoll&since=now&include_docs=true&heartbeat=60000&limit=20&seq_interval=20 200
+[Mon, 20 Feb 2023 14:51:03 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /flages/ 412
+[Mon, 20 Feb 2023 14:57:04 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /flages/_changes?style=all_docs&feed=longpoll&since=now&include_docs=true&heartbeat=60000&limit=20&seq_interval=20 200
+[Mon, 20 Feb 2023 14:57:38 GMT] [info] [<0.000.0>] pouchdb-server has started on http://0.0.0.0:10102/
+[Mon, 20 Feb 2023 14:57:38 GMT] [info] [<0.000.0>] database is in-memory; no changes will be saved.
+[Mon, 20 Feb 2023 14:57:38 GMT] [info] [<0.000.0>] database files will be saved to /tmp/pouchdb-server/
+[Mon, 20 Feb 2023 14:57:38 GMT] [info] [<0.000.0>] navigate to http://0.0.0.0:10102/_utils for the Fauxton UI.
+[Mon, 20 Feb 2023 15:05:26 GMT] [info] [<0.000.0>] pouchdb-server has started on http://0.0.0.0:10102/
+[Mon, 20 Feb 2023 15:05:26 GMT] [info] [<0.000.0>] database is in-memory; no changes will be saved.
+[Mon, 20 Feb 2023 15:05:26 GMT] [info] [<0.000.0>] database files will be saved to /tmp/pouchdb-server/
+[Mon, 20 Feb 2023 15:05:26 GMT] [info] [<0.000.0>] navigate to http://0.0.0.0:10102/_utils for the Fauxton UI.
+[Mon, 20 Feb 2023 15:13:09 GMT] [info] [<0.000.0>] pouchdb-server has started on http://0.0.0.0:10102/
+[Mon, 20 Feb 2023 15:13:09 GMT] [info] [<0.000.0>] database is in-memory; no changes will be saved.
+[Mon, 20 Feb 2023 15:13:09 GMT] [info] [<0.000.0>] database files will be saved to /tmp/pouchdb-server/
+[Mon, 20 Feb 2023 15:13:09 GMT] [info] [<0.000.0>] navigate to http://0.0.0.0:10102/_utils for the Fauxton UI.
+[Mon, 20 Feb 2023 15:19:31 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET / 200
+[Mon, 20 Feb 2023 15:20:32 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /flags/ 201
+[Mon, 20 Feb 2023 15:20:49 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /flags/_changes?style=all_docs&feed=longpoll&since=now&include_docs=true&heartbeat=60000&limit=20&seq_interval=20 200
+[Mon, 20 Feb 2023 15:20:49 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /flags/ 412
+[Mon, 20 Feb 2023 15:24:21 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /flags/_changes?style=all_docs&feed=longpoll&since=now&include_docs=true&heartbeat=60000&limit=20&seq_interval=20 200
+[Mon, 20 Feb 2023 15:25:01 GMT] [info] [<0.000.0>] pouchdb-server has started on http://0.0.0.0:10102/
+[Mon, 20 Feb 2023 15:25:01 GMT] [info] [<0.000.0>] database is in-memory; no changes will be saved.
+[Mon, 20 Feb 2023 15:25:01 GMT] [info] [<0.000.0>] database files will be saved to /tmp/pouchdb-server/
+[Mon, 20 Feb 2023 15:25:01 GMT] [info] [<0.000.0>] navigate to http://0.0.0.0:10102/_utils for the Fauxton UI.
+[Mon, 20 Feb 2023 15:27:02 GMT] [info] [<0.000.0>] pouchdb-server has started on http://0.0.0.0:10102/
+[Mon, 20 Feb 2023 15:27:02 GMT] [info] [<0.000.0>] database is in-memory; no changes will be saved.
+[Mon, 20 Feb 2023 15:27:02 GMT] [info] [<0.000.0>] database files will be saved to /tmp/pouchdb-server/
+[Mon, 20 Feb 2023 15:27:02 GMT] [info] [<0.000.0>] navigate to http://0.0.0.0:10102/_utils for the Fauxton UI.
+[Mon, 20 Feb 2023 15:33:59 GMT] [info] [<0.000.0>] pouchdb-server has started on http://0.0.0.0:10102/
+[Mon, 20 Feb 2023 15:33:59 GMT] [info] [<0.000.0>] database is in-memory; no changes will be saved.
+[Mon, 20 Feb 2023 15:33:59 GMT] [info] [<0.000.0>] database files will be saved to /tmp/pouchdb-server/
+[Mon, 20 Feb 2023 15:33:59 GMT] [info] [<0.000.0>] navigate to http://0.0.0.0:10102/_utils for the Fauxton UI.
+[Mon, 20 Feb 2023 15:36:26 GMT] [info] [<0.000.0>] pouchdb-server has started on http://0.0.0.0:10102/
+[Mon, 20 Feb 2023 15:36:26 GMT] [info] [<0.000.0>] database is in-memory; no changes will be saved.
+[Mon, 20 Feb 2023 15:36:26 GMT] [info] [<0.000.0>] database files will be saved to /tmp/pouchdb-server/
+[Mon, 20 Feb 2023 15:36:26 GMT] [info] [<0.000.0>] navigate to http://0.0.0.0:10102/_utils for the Fauxton UI.
+[Mon, 20 Feb 2023 15:37:50 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET / 304
+[Mon, 20 Feb 2023 15:38:33 GMT] [info] [<0.000.0>] pouchdb-server has started on http://0.0.0.0:10102/
+[Mon, 20 Feb 2023 15:38:33 GMT] [info] [<0.000.0>] database is in-memory; no changes will be saved.
+[Mon, 20 Feb 2023 15:38:33 GMT] [info] [<0.000.0>] database files will be saved to /tmp/pouchdb-server/
+[Mon, 20 Feb 2023 15:38:33 GMT] [info] [<0.000.0>] navigate to http://0.0.0.0:10102/_utils for the Fauxton UI.
+[Mon, 20 Feb 2023 16:12:42 GMT] [info] [<0.000.0>] pouchdb-server has started on http://0.0.0.0:10102/
+[Mon, 20 Feb 2023 16:12:42 GMT] [info] [<0.000.0>] database is in-memory; no changes will be saved.
+[Mon, 20 Feb 2023 16:12:42 GMT] [info] [<0.000.0>] database files will be saved to /tmp/pouchdb-server/
+[Mon, 20 Feb 2023 16:12:42 GMT] [info] [<0.000.0>] navigate to http://0.0.0.0:10102/_utils for the Fauxton UI.
+[Mon, 20 Feb 2023 16:20:53 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /flags/ 201
+[Mon, 20 Feb 2023 16:23:25 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /flags/ 412
+[Mon, 20 Feb 2023 16:23:30 GMT] [info] [<0.000.0>] pouchdb-server has started on http://0.0.0.0:10102/
+[Mon, 20 Feb 2023 16:23:30 GMT] [info] [<0.000.0>] database is in-memory; no changes will be saved.
+[Mon, 20 Feb 2023 16:23:30 GMT] [info] [<0.000.0>] database files will be saved to /tmp/pouchdb-server/
+[Mon, 20 Feb 2023 16:23:30 GMT] [info] [<0.000.0>] navigate to http://0.0.0.0:10102/_utils for the Fauxton UI.
+[Mon, 20 Feb 2023 16:23:37 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /flags/ 201
+[Mon, 20 Feb 2023 16:23:56 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /flags/ 412
+[Mon, 20 Feb 2023 16:24:06 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /flags/_changes?style=all_docs&feed=longpoll&since=now&include_docs=true&heartbeat=60000&limit=20&seq_interval=20 200
+[Mon, 20 Feb 2023 16:24:06 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /flags/_changes?style=all_docs&feed=longpoll&since=now&include_docs=true&heartbeat=60000&limit=20&seq_interval=20 200
+[Mon, 20 Feb 2023 16:24:06 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /flags/ 412
+[Mon, 20 Feb 2023 16:26:09 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /flags/_changes?style=all_docs&feed=longpoll&since=now&include_docs=true&heartbeat=60000&limit=20&seq_interval=20 200
+[Mon, 20 Feb 2023 16:26:09 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /flags/ 412
+[Mon, 20 Feb 2023 16:28:45 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /flags/ 412
+[Mon, 20 Feb 2023 16:32:44 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /flags/_changes?style=all_docs&feed=longpoll&since=now&include_docs=true&heartbeat=60000&limit=20&seq_interval=20 200
+[Mon, 20 Feb 2023 16:32:44 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /flags/_changes?style=all_docs&feed=longpoll&since=now&include_docs=true&heartbeat=60000&limit=20&seq_interval=20 200
+[Mon, 20 Feb 2023 16:32:44 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /flags/ 412
+[Mon, 20 Feb 2023 16:35:09 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /flags/_changes?style=all_docs&feed=longpoll&since=now&include_docs=true&heartbeat=60000&limit=20&seq_interval=20 200
+[Mon, 20 Feb 2023 16:35:10 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /flags/ 412
+[Tue, 21 Feb 2023 11:19:22 GMT] [info] [<0.000.0>] pouchdb-server has started on http://0.0.0.0:10102/
+[Tue, 21 Feb 2023 11:19:22 GMT] [info] [<0.000.0>] database is in-memory; no changes will be saved.
+[Tue, 21 Feb 2023 11:19:22 GMT] [info] [<0.000.0>] database files will be saved to /tmp/pouchdb-server/
+[Tue, 21 Feb 2023 11:19:22 GMT] [info] [<0.000.0>] navigate to http://0.0.0.0:10102/_utils for the Fauxton UI.
+[Tue, 21 Feb 2023 11:19:23 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /flags/_changes?style=all_docs&feed=longpoll&since=now&include_docs=true&heartbeat=60000&limit=20&seq_interval=20 404
+[Tue, 21 Feb 2023 11:19:44 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /flags/ 201
+[Tue, 21 Feb 2023 11:26:04 GMT] [info] [<0.000.0>] pouchdb-server has started on http://0.0.0.0:10102/
+[Tue, 21 Feb 2023 11:26:04 GMT] [info] [<0.000.0>] database is in-memory; no changes will be saved.
+[Tue, 21 Feb 2023 11:26:04 GMT] [info] [<0.000.0>] database files will be saved to /tmp/pouchdb-server/
+[Tue, 21 Feb 2023 11:26:04 GMT] [info] [<0.000.0>] navigate to http://0.0.0.0:10102/_utils for the Fauxton UI.
+[Tue, 21 Feb 2023 11:26:04 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /flags/_changes?style=all_docs&feed=longpoll&since=now&include_docs=true&heartbeat=60000&limit=20&seq_interval=20 404
+[Tue, 21 Feb 2023 11:26:12 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /flags/ 201
+[Tue, 21 Feb 2023 11:26:15 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /flags/_changes?style=all_docs&feed=longpoll&since=now&include_docs=true&heartbeat=60000&limit=20&seq_interval=20 200

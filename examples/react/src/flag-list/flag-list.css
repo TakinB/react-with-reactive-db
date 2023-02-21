@@ -1,0 +1,11 @@
+#flages-list {
+  width: 100%;
+}
+
+.actions {
+  float: right;
+}
+
+i {
+  cursor: pointer;
+}
